@@ -1,4 +1,5 @@
 ## Extends the Matrix object to cache its inverse so it is only computed once.
+## Per assignment instructions: assume that the matrix supplied is always invertible.
 
 ## Stores a matrix and it's inverse (once the inverse has been computed).
 
